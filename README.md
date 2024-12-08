@@ -1,5 +1,5 @@
 
-# NotesApp(Internshala Assignment)
+# NotesApp
 
 The Notes App is a simple and intuitive application designed for creating, managing, and organizing your notes seamlessly.
 
